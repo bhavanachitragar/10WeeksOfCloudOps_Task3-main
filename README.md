@@ -1,4 +1,4 @@
-# 2-tier-Application-On-AWS-Using-Terraform
+# Deploying 2-tier-Application-On-AWS-Using-Terraform
 -------------------------------------------------------------
 
 
